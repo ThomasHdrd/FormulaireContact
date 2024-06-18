@@ -19,7 +19,7 @@
                 <h2>Contactez-moi</h2>
             </div>
 
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-10 col-lg-offset-1">
                     <form id="contact-form" method="post" action="" role="form"> <!-- htmlspecialchars : eviter le hack XSS -->
                         <div class="row">
@@ -66,7 +66,6 @@
                     </form>
                 </div>
             </div>
-
         </div>
     </body>
 </html>
